@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yash-surana.github.io/csb-iziv8/static/css/main.685ad46e.chunk.css",
+    "main.js": "https://yash-surana.github.io/csb-iziv8/static/js/main.bf87f42f.chunk.js",
+    "main.js.map": "https://yash-surana.github.io/csb-iziv8/static/js/main.bf87f42f.chunk.js.map",
+    "runtime-main.js": "https://yash-surana.github.io/csb-iziv8/static/js/runtime-main.3d240daf.js",
+    "runtime-main.js.map": "https://yash-surana.github.io/csb-iziv8/static/js/runtime-main.3d240daf.js.map",
+    "static/js/2.5df70720.chunk.js": "https://yash-surana.github.io/csb-iziv8/static/js/2.5df70720.chunk.js",
+    "static/js/2.5df70720.chunk.js.map": "https://yash-surana.github.io/csb-iziv8/static/js/2.5df70720.chunk.js.map",
+    "index.html": "https://yash-surana.github.io/csb-iziv8/index.html",
+    "static/css/main.685ad46e.chunk.css.map": "https://yash-surana.github.io/csb-iziv8/static/css/main.685ad46e.chunk.css.map",
+    "static/js/2.5df70720.chunk.js.LICENSE.txt": "https://yash-surana.github.io/csb-iziv8/static/js/2.5df70720.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d240daf.js",
+    "static/js/2.5df70720.chunk.js",
+    "static/css/main.685ad46e.chunk.css",
+    "static/js/main.bf87f42f.chunk.js"
+  ]
+}
